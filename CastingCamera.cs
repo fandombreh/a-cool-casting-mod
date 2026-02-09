@@ -8,7 +8,7 @@ using System.Reflection;
 
 namespace GorillaTagCinematicCamera
 {
-    [BepInPlugin("com.yourname.gorillatag.cinematiccamera", "Cinematic Spectator Camera", "1.0.0")]
+    [BepInPlugin("lalala.iambettrr.ithunkthusisgood.cinematiccamera", "lalalaalallmod", "1.0.0")]
     public class CinematicCameraPlugin : BaseUnityPlugin
     {
         private static CinematicCameraController controller;
@@ -564,3 +564,4 @@ namespace GorillaTagCinematicCamera
         }
     }
 }
+
